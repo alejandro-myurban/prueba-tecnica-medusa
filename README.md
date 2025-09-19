@@ -133,7 +133,7 @@ Desarrolla una extensión personalizada para un e-commerce utilizando Medusa com
 2. **Incluir README detallado** con setup y explicaciones
 3. **Subir video demo** (YouTube, Loom, o archivo)
 4. **Enviar enlace del repositorio** junto con link del video
-5. **Tiempo límite:** Especificar deadline según acuerdo
+5. **Tiempo límite:** Sábado 20/09/2025 a las 23:59
 
 ---
 
